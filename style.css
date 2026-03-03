@@ -13,8 +13,7 @@ body {
 /* ================== HOME SECTION ================== */
 .home {
     height: 100vh;
-    background: url("assets/images/Japanese Sushi Platter.jpg") no-repeat center center/cover;
-    display: flex;
+    background: url("assets/images/Japanese%20Sushi%20Platter.jpg") no-repeat center center/cover;    display: flex;
     align-items: center;
     padding-left: 8%;
     position: relative;
@@ -421,6 +420,7 @@ body {
         flex-direction: column;
     }
 }
+
 
 
 
